@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataStructuresProblem.OrderedList
+namespace DataStructures.OrderedList
 {
     public class OrderedListOperations
     {
