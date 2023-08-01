@@ -1,8 +1,8 @@
-﻿using DataStructureProblems.BalancedParanthesis;
-using DataStructureProblems.BankingCashCounter;
-using DataStructureProblems.HashTable;
-using DataStructureProblems.OrderedList;
-using DataStructureProblems.UnorderedList;
+﻿using DataStructures.BalancedParanthesis;
+using DataStructures.BankingCashCounter;
+using DataStructures.HashTable;
+using DataStructures.OrderedList;
+using DataStructures.UnorderedList;
 
 public class Program
 {
